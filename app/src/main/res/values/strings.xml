@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokemonTrader</string>
+    <string name="cadastrar">
+        <u>Cadastra-se.</u>
+    </string>
+    <string name="transitionCadastro">cadastro</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_pokedex">Pokedex</string>
+    <string name="title_time">Meu Time</string>
+    <string name="title_mapa">Mapa</string>
+    <string name="title_perfil">Perfil</string>
+</resources>

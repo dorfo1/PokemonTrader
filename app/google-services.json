@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362736508406",
+    "firebase_url": "https://pokemontrader-8a432.firebaseio.com",
+    "project_id": "pokemontrader-8a432",
+    "storage_bucket": "pokemontrader-8a432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362736508406:android:f615401c8fa1398f",
+        "android_client_info": {
+          "package_name": "fiap.com.br.pokemontrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362736508406-m7usbhcp8aqlhjnu0k0p2n4mp9ooeqfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fiap.com.br.pokemontrader",
+            "certificate_hash": "e073075120f134220004c62cd861ca5b55a4fc44"
+          }
+        },
+        {
+          "client_id": "362736508406-jhb66shgti43j4pn279ha9nkrsf76e5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtWtqhSI0HOgqvRkdjwu3pN9Xs4xiR14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362736508406-jhb66shgti43j4pn279ha9nkrsf76e5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
